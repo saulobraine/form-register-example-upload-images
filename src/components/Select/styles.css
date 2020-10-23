@@ -1,0 +1,17 @@
+.select-block {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.select-block label {
+  display: flex;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.select-block select {
+  width: 100%;
+  padding: 10px;
+  border: 0;
+  border-radius: 4px
+}

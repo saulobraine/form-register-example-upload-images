@@ -1,0 +1,22 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  background: #0A4E7D;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin-bottom: 10px;
+  ;
+}
+
+header img {
+  width: 150px;
+}
+
+@media screen and (max-width: 992px) {
+  header img {
+    max-width: 100px;
+  }
+}

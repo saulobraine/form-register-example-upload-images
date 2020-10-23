@@ -2,6 +2,8 @@
   width: 100vw;
   height: 100vh;
   padding: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 #page-homeapp .container {
